@@ -1,0 +1,78 @@
+[INFO] 2025-04-08 16:01:07,514 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 16:01:07,514 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 16:07:26,597 autoreload | /app/reservations/serializers.py changed, reloading.
+[INFO] 2025-04-08 16:07:26,597 autoreload | /app/reservations/serializers.py changed, reloading.
+[INFO] 2025-04-08 16:07:28,127 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 16:07:28,127 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 16:08:13,416 basehttp | "POST /api/tables/ HTTP/1.1" 201 67
+[INFO] 2025-04-08 16:08:13,416 basehttp | "POST /api/tables/ HTTP/1.1" 201 67
+[INFO] 2025-04-08 16:08:28,518 basehttp | "GET /api/tables/ HTTP/1.1" 200 69
+[INFO] 2025-04-08 16:08:28,518 basehttp | "GET /api/tables/ HTTP/1.1" 200 69
+[INFO] 2025-04-08 16:08:40,534 basehttp | "DELETE /api/tables/1/ HTTP/1.1" 204 0
+[INFO] 2025-04-08 16:08:40,534 basehttp | "DELETE /api/tables/1/ HTTP/1.1" 204 0
+[WARNING] 2025-04-08 16:08:46,092 basehttp | "DELETE /api/tables/1/ HTTP/1.1" 404 46
+[WARNING] 2025-04-08 16:08:46,092 basehttp | "DELETE /api/tables/1/ HTTP/1.1" 404 46
+[WARNING] 2025-04-08 16:08:59,236 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[WARNING] 2025-04-08 16:08:59,236 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[INFO] 2025-04-08 16:09:12,983 basehttp | "POST /api/tables/ HTTP/1.1" 201 67
+[INFO] 2025-04-08 16:09:12,983 basehttp | "POST /api/tables/ HTTP/1.1" 201 67
+[WARNING] 2025-04-08 16:09:18,956 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[WARNING] 2025-04-08 16:09:18,956 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[INFO] 2025-04-08 16:09:28,537 basehttp | "GET /api/reservations/ HTTP/1.1" 200 2
+[INFO] 2025-04-08 16:09:28,537 basehttp | "GET /api/reservations/ HTTP/1.1" 200 2
+[INFO] 2025-04-08 16:10:18,836 basehttp | "POST /api/reservations/ HTTP/1.1" 201 109
+[INFO] 2025-04-08 16:10:18,836 basehttp | "POST /api/reservations/ HTTP/1.1" 201 109
+[INFO] 2025-04-08 16:10:42,879 basehttp | "GET /api/reservations/ HTTP/1.1" 200 111
+[INFO] 2025-04-08 16:10:42,879 basehttp | "GET /api/reservations/ HTTP/1.1" 200 111
+[WARNING] 2025-04-08 16:10:49,195 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[WARNING] 2025-04-08 16:10:49,195 basehttp | "POST /api/reservations/ HTTP/1.1" 400 55
+[WARNING] 2025-04-08 16:12:02,503 basehttp | "POST /api/reservations/ HTTP/1.1" 400 102
+[WARNING] 2025-04-08 16:12:02,503 basehttp | "POST /api/reservations/ HTTP/1.1" 400 102
+[INFO] 2025-04-08 17:19:25,671 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 17:19:25,671 autoreload | Watching for file changes with StatReloader
+[INFO] 2025-04-08 17:19:31,460 basehttp | "GET /admin/reservations/reservation/ HTTP/1.1" 200 12933
+[INFO] 2025-04-08 17:19:31,460 basehttp | "GET /admin/reservations/reservation/ HTTP/1.1" 200 12933
+[WARNING] 2025-04-08 17:19:32,145 basehttp | "GET /favicon.ico HTTP/1.1" 404 2534
+[WARNING] 2025-04-08 17:19:32,145 basehttp | "GET /favicon.ico HTTP/1.1" 404 2534
+[INFO] 2025-04-08 17:19:33,526 basehttp | "GET /admin/reservations/reservation/ HTTP/1.1" 200 12933
+[INFO] 2025-04-08 17:19:33,526 basehttp | "GET /admin/reservations/reservation/ HTTP/1.1" 200 12933
+[INFO] 2025-04-08 17:19:33,556 basehttp | "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,556 basehttp | "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,570 basehttp | "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,570 basehttp | "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,577 basehttp | "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,577 basehttp | "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,575 basehttp | "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,575 basehttp | "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,572 basehttp | "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,572 basehttp | "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,587 basehttp | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[INFO] 2025-04-08 17:19:33,587 basehttp | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[INFO] 2025-04-08 17:19:33,594 basehttp | "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,594 basehttp | "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,595 basehttp | "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,595 basehttp | "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,596 basehttp | "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,596 basehttp | "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,600 basehttp | "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,600 basehttp | "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,601 basehttp | "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,601 basehttp | "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,603 basehttp | "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,603 basehttp | "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,667 basehttp | "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,667 basehttp | "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,668 basehttp | "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,668 basehttp | "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,671 basehttp | "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,671 basehttp | "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,670 basehttp | "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,670 basehttp | "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,720 basehttp | "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,720 basehttp | "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,723 basehttp | "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:33,723 basehttp | "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[INFO] 2025-04-08 17:19:35,940 basehttp | "GET /admin/auth/group/ HTTP/1.1" 200 9520
+[INFO] 2025-04-08 17:19:35,940 basehttp | "GET /admin/auth/group/ HTTP/1.1" 200 9520
+[INFO] 2025-04-08 17:19:35,976 basehttp | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[INFO] 2025-04-08 17:19:35,976 basehttp | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
